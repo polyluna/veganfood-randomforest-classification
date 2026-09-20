@@ -1,4 +1,4 @@
-# Vegan Food - Random Forest Classificatio
+# Vegan Food - Random Forest Classification
 Full write up: [Link](https://rb.gy/vtstm9)
 
 Google Colab: [link](https://colab.research.google.com/drive/1A1YG5LfBH9hv08HWwHKLzMDXGg5oS0XC?usp=sharing)
