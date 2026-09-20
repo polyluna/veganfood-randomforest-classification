@@ -1,7 +1,10 @@
 # Vegan Food - Random Forest Classificatio
 Full write up: [Link](https://rb.gy/vtstm9)
+
 Google Colab: [link](https://colab.research.google.com/drive/1A1YG5LfBH9hv08HWwHKLzMDXGg5oS0XC?usp=sharing)
+
 Report : [link](https://docs.google.com/document/d/1Qn70-QXqn_jeazdGT4-LSqADLFijQLcF2R3SLCkLFJ4/edit?tab=t.0#heading=h.7xuk7xz9bkpn)
+
 UX Proces: [link](https://app.notion.com/p/TechLabs-UX-Process-12cff3b645ed4c2e9806a02966f7bfc9)
 
 ## TechLabs Digital Shaper Program
